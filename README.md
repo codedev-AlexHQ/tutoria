@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
 <h1>📝 Tarea Semana 1: "Conócete para avanzar"</h1>
@@ -11,35 +9,36 @@
     
 
 <h2>✍️ Parte 1: Carta a mí mismo</h2>
-Querido yo,
+<strong>Querido yo,</strong>
 
-En mi vida personal, deseo encontrar equilibrio emocional, cultivar relaciones significativas y viajar para expandir mi perspectiva. 🌍 En lo profesional, quiero dominar mi campo de estudio, contribuir con soluciones innovadoras y crecer constantemente. 🚀
-
+En mi vida <strong>personal</strong>, deseo encontrar equilibrio emocional, cultivar relaciones significativas y viajar para expandir mi perspectiva. <span class="emoji">🌍</span> En lo <strong>profesional</strong>, quiero dominar mi campo de estudio, contribuir con soluciones innovadoras y crecer constantemente. <span class="emoji">🚀</span>
 Mis miedos son el fracaso y la incertidumbre, a veces me paralizan. También la creencia de "no soy suficiente" limita mi potencial. 😟
 
 Las decisiones que me acercan a mi propósito son:
-✔️ Aprender algo nuevo cada día.
-✔️ Rodearme de personas que me inspiren.
-✔️ Tomar acción a pesar del miedo.
+<ul>
+<li>✔️ Aprender algo nuevo cada día.</li>
+<li>✔️ Rodearme de personas que me inspiren.</li>
+<li>✔️ Tomar acción a pesar del miedo.</li>
+</ul>
 
 Desde hoy, estoy dispuesto/a a cambiar mi mentalidad, soltar el perfeccionismo y confiar más en mi proceso. 💪
     
 <h2>💬 Parte 2: Mi mapa interno</h2>
-🔥 Lo que me impulsa:
-La curiosidad por aprender.
+<h3>🔥 Lo que me impulsa:</h3>
+            <ul>
+                <li>La curiosidad por aprender.</li>
+                <li>El deseo de impactar positivamente en otros.</li>
+                <li>La pasión por crear soluciones prácticas.</li>
+            </ul>
 
-El deseo de impactar positivamente en otros.
+<h3>⚠️ Lo que me detiene:</h3>
+            <ul>
+                <li>Miedo a no estar a la altura.</li>
+                <li>Procrastinación por sobreanalizar.</li>
+                <li>Inseguridad al tomar decisiones importantes.</li>
+            </ul>
 
-La pasión por crear soluciones prácticas.
-
-⚠️ Lo que me detiene:
-Miedo a no estar a la altura.
-
-Procrastinación por sobreanalizar.
-
-Inseguridad al tomar decisiones importantes.
-
-✨ Mi propósito inicial:
+<h3>✨ Mi propósito inicial:</h3>
 Aprender, crecer y usar mis habilidades para resolver problemas reales, mientras disfruto el camino. 🌱
 </body>
 </html>
